@@ -1,6 +1,8 @@
 # 250+ hands-on C++ programs covering fundamentals, OOP, Data Structures, and STL — from university first-year coursework
 
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## Repository Structure
 - # 1. Basics
 Folder	Contents
