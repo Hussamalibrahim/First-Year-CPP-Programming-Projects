@@ -2,7 +2,7 @@
 
 
 ## Repository Structure
-# 1. Basics
+- # 1. Basics
 Folder	Contents
 Calculation	Math operations (prime, factorial, etc.)
 Education	Simple learning-focused programs
@@ -12,13 +12,13 @@ Shapes	Pattern printing (pyramids, diamonds)
 String	String manipulation programs
 Structer	Basic struct implementations
 
-# 2. Data Structures
+- # 2. Data Structures
 Single-file implementations of:
 Stacks, Queues, Linked Lists
 Binary Trees, Graphs (basics)
 Sorting/Searching algorithms
 
-# 3. OOP (Object-Oriented Programming)
+- # 3. OOP (Object-Oriented Programming)
 Folder	Key Concepts
 Basics	Class fundamentals
 Constructor	Constructors/Destructors
@@ -28,7 +28,7 @@ Polymorphism	Virtual functions, interfaces
 Templates	Generic programming
 VirtualFunction	Runtime polymorphism examples
 
-# 4. STL (Standard Template Library)
+- # 4. STL (Standard Template Library)
 Folder	Contents
 Sorting	STL sort(), custom comparators
 Template	Template functions/classes
